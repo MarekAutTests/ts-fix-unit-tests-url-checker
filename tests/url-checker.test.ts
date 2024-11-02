@@ -1,6 +1,5 @@
 import {LinkChecker} from '../src/url-checker'
 
-
 describe('LinkChecker', () => {
     let linkChecker: LinkChecker;
 
